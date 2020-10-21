@@ -1,7 +1,7 @@
 ![Adejair Apresentação](https://i.imgur.com/0plCWjn.png)
 
 
-### Bem vindo ao meu perfil
+### Bem vindo ao meu perfil 😄
 
 <!--
 **Adejair/Adejair** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
