@@ -1,4 +1,4 @@
-![Adejair Apresentação](https://i.imgur.com/0plCWjn.png)
+
 
 
 <!--
